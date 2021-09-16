@@ -44,7 +44,7 @@ I also used Replit cloud platform for my bot (as suggested in the video), so her
 
 
 
-Since Replit is an online platform, our bots will go offline once we close the tabs, to avoid this ee use Uptime Robot to keep our bot alive even when we have our Replit tabs closed. You just have to include the keep_alive.py file and import it in your main file, it incorporates Flask and does the job! 
+Since Replit is an online platform, our bots will go offline once we close the tabs, to avoid this we use Uptime Robot to keep our bot alive even when we have our Replit tabs closed. You just have to include the keep_alive.py file and import it in your main file, it incorporates Flask and does the job! 
 The Uptime Robot automatically pings your bot to let it know it is in use and thus stops it from going offline.
 
 
@@ -57,7 +57,7 @@ These are the bots current functions, I hope to incorporate more in the future.
 * [Discord Developer page](https://discord.com/developers/applications): You can find the creation part of your bot here, follow the tutorial video for clarity
 * [Uptime Robot](https://uptimerobot.com/login?rt=https://uptimerobot.com/): This is absolutely free and just needs signing up too
 
-The code is currently under furter development since I'm hoping to improve it, but I hope you found this useful :)
+The code is currently under further devlopment since I'm hoping to improve it, but I hope you found this useful :)
    
  
 
